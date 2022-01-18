@@ -1,0 +1,112 @@
+{
+	"AIESECNepal": [
+		{
+			"data": 150,
+			"title": "Experiences Aboard",
+			"isPrice": false
+		},
+		{
+			"data": 110,
+			"title": "Experience in Nepal",
+			"isPrice": false
+		},
+		{
+			"data": 130,
+			"title": "Membership",
+			"isPrice": false
+		},
+		{
+			"data": 100,
+			"title": "Stakeholder Engaged",
+			"isPrice": false
+		}
+	],
+	"AiK": [
+		{
+			"data": 150,
+			"title": "Experiences Aboard",
+			"isPrice": false
+		},
+		{
+			"data": 110,
+			"title": "Experience in Nepal",
+			"isPrice": false
+		},
+		{
+			"data": 130,
+			"title": "Membership",
+			"isPrice": false
+		},
+		{
+			"data": 100,
+			"title": "Stakeholder Engaged",
+			"isPrice": false
+		}
+	],
+	"AiP": [
+		{
+			"data": 150,
+			"title": "Experiences Aboard",
+			"isPrice": false
+		},
+		{
+			"data": 110,
+			"title": "Experience in Nepal",
+			"isPrice": false
+		},
+		{
+			"data": 130,
+			"title": "Membership",
+			"isPrice": false
+		},
+		{
+			"data": 100,
+			"title": "Stakeholder Engaged",
+			"isPrice": false
+		}
+	],
+	"AiKU": [
+		{
+			"data": 150,
+			"title": "Experiences Aboard",
+			"isPrice": false
+		},
+		{
+			"data": 110,
+			"title": "Experience in Nepal",
+			"isPrice": false
+		},
+		{
+			"data": 130,
+			"title": "Membership",
+			"isPrice": false
+		},
+		{
+			"data": 100,
+			"title": "Stakeholder Engaged",
+			"isPrice": false
+		}
+	],
+	"AiL": [
+		{
+			"data": 150,
+			"title": "Experiences Aboard",
+			"isPrice": false
+		},
+		{
+			"data": 110,
+			"title": "Experience in Nepal",
+			"isPrice": false
+		},
+		{
+			"data": 130,
+			"title": "Membership",
+			"isPrice": false
+		},
+		{
+			"data": 100,
+			"title": "Stakeholder Engaged",
+			"isPrice": false
+		}
+	]
+}

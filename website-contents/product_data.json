@@ -1,0 +1,70 @@
+{
+	"YouthGlobalVolunteer": [
+		{
+			"data": 15000,
+			"title": "To Leave",
+			"isPrice": true
+		},
+		{
+			"data": 11000,
+			"title": "Projects",
+			"isPrice": false
+		},
+		{
+			"data": 110,
+			"title": "Countries",
+			"isPrice": false
+		}
+	],
+	"YouthGlobalTalent": [
+		{
+			"data": 20000,
+			"title": "To Leave",
+			"isPrice": true
+		},
+		{
+			"data": 13000,
+			"title": "Projects",
+			"isPrice": false
+		},
+		{
+			"data": 90,
+			"title": "Countries",
+			"isPrice": false
+		}
+	],
+	"OrganizationGlobalVolunteer": [
+		{
+			"data": 30,
+			"title": "Projects",
+			"isPrice": false
+		},
+		{
+			"data": 500,
+			"title": "Volunteers Arrived",
+			"isPrice": false
+		},
+		{
+			"data": 25,
+			"title": "Partners",
+			"isPrice": false
+		}
+	],
+	"OrganizationGlobalTeacher": [
+		{
+			"data": 20,
+			"title": "Projects",
+			"isPrice": false
+		},
+		{
+			"data": 200,
+			"title": "Teachers Arrived",
+			"isPrice": false
+		},
+		{
+			"data": 21,
+			"title": "Partners",
+			"isPrice": false
+		}
+	]
+}

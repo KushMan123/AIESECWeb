@@ -1,0 +1,92 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model YouthCountry{
+  id  Int @default(autoincrement()) @id
+  country_name String
+  country_summary String
+  country_image String
+  flight_cost Int
+  accomodation_cost Int
+  visa_cost Int
+  additional_cost Int
+  Opportunity_link String
+  isGV Boolean @default(false)
+  isGT Boolean @default(false)
+}
+
+model OrganizationCountry{
+  id  Int @default(autoincrement()) @id
+  country_name String
+  country_image String
+  isGV Boolean @default(false)
+  isGTe Boolean @default(false)
+}
+
+model FAQs{
+  id Int @default(autoincrement()) @id
+  question String
+  answer String
+  isYouthGV Boolean @default(false)
+  isYouthGT Boolean @default(false)
+  isOrganizationGV Boolean @default(false)
+  isOrganizationGTe Boolean @default(false)
+}
+
+model partners{
+  id Int @default(autoincrement()) @id
+  partner_name String
+  partner_image String
+}
+
+model YouthTestimonial{
+  id Int @default(autoincrement()) @id
+  name String
+  testimonial String
+  product_name String
+  country String
+  image String
+  isGV Boolean @default(false)
+  isGT Boolean @default(false)
+  tobeFeatured Boolean @default(false)
+}
+
+model OrganizationTestimonial{
+  id Int @default(autoincrement()) @id
+  name String
+  testimonial String
+  position String
+  company String
+  image String
+  isGV Boolean @default(false)
+  isGTe Boolean @default(false)
+  tobeFeatured Boolean @default(false)
+}
+
+model LocalOffice{
+  id Int @default(autoincrement()) @id
+  name String
+  address String
+  description String
+  photo String
+  president_name String
+  president_number String
+  president_email String
+}
+
+model LocalOfficeGallery{
+  id Int @default(autoincrement()) @id
+  lc_name String
+  photo String
+}
+
+

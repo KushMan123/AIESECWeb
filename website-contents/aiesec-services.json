@@ -1,0 +1,24 @@
+{
+	"ServicesOffered": [
+		"Support bt Sourcing and Screening",
+		"VISA and FRRO Support",
+		"Volunnteer Engagement and Experience Delivery",
+		"Arrival Pickup",
+		"Departure Support",
+		"All kinds of Document Support",
+		"Enagement of Volunteers outside workspace",
+		"Experience Debriefing sessions after the Program",
+		"Working on Leadership Development for Interns",
+		"Accoount Management"
+	],
+	"ServicestobeProvided": [
+		{
+			"title": "Fee",
+			"content": "Host Volunteers by providing fees charged by the AIESEC local chapter in your city"
+		},
+		{
+			"title": "Accomodation/ Foods",
+			"content": "Provide accomodation or food or both to the international volunteers"
+		}
+	]
+}

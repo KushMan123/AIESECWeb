@@ -1,0 +1,70 @@
+{
+	"youthsGlobalVolunteer": [
+		{
+			"iconName": "users",
+			"heading": "Cross Culture Experience",
+			"description": "Experience new cultures while working in a diverse and cross cultural team which provides a limitless experience"
+		},
+		{
+			"iconName": "chart-line",
+			"heading": "Personal Development",
+			"description": "If you don't try and experience new things, you'll never find your full potential and discover the best version of you."
+		},
+		{
+			"iconName": "bullseye",
+			"heading": "Contribute to SDGs",
+			"description": "Tackle the world issues you're most passionate about and contribute towards a better world."
+		}
+	],
+	"youthGlobalTalent": [
+		{
+			"iconName": "users",
+			"heading": "Diversified Work Environment",
+			"description": "Experience new cultures while working in a diverse and cross cultural team which provides a limitless experience"
+		},
+		{
+			"iconName": "chart-line",
+			"heading": "Personal Growth and Development",
+			"description": "If you don't try and experience new things, you'll never find your full potential and discover the best version of you."
+		},
+		{
+			"iconName": "chalkboard",
+			"heading": "Gain International Experience and Exposure",
+			"description": "Tackle the world issues you're most passionate about and contribute towards a better world"
+		}
+	],
+	"OrganizationGlobalVolunteer": [
+		{
+			"iconName": "users",
+			"heading": "Global Perspective in Your Company",
+			"description": "Global Perspective of our volunteers to think outside the box when tackling issues."
+		},
+		{
+			"iconName": "chart-line",
+			"heading": "Hire with Ease through AIESEC",
+			"description": "AIESEC.org is the global platform where all the potential volunteers get signed-up on."
+		},
+		{
+			"iconName": "bullseye",
+			"heading": "Project Designed to Create an Impact",
+			"description": "All our projects contribute towards the SDGs and tackle the issues in the country"
+		}
+	],
+	"OrganizationGlobalTeacher": [
+		{
+			"iconName": "tag",
+			"heading": "Simple and Affordable",
+			"description": "Global Perspective of our volunteers to think outside the box when tackling issues."
+		},
+		{
+			"iconName": "users",
+			"heading": "Boost your Workplace",
+			"description": "AIESEC.org is the global platform where all the potential volunteers get signed-up on."
+		},
+		{
+			"iconName": "globe-europe",
+			"heading": "Network Internationally",
+			"description": "All our projects contribute towards the SDGs and tackle the issues in the country"
+		}
+	]
+}
